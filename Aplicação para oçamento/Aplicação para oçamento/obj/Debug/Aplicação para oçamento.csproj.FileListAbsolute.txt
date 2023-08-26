@@ -1,0 +1,15 @@
+C:\Users\Nathan\Desktop\Aplicação para orçamentos 2.0\Aplicação para oçamento\Aplicação para oçamento\bin\Debug\Aplicação para oçamento.exe.config
+C:\Users\Nathan\Desktop\Aplicação para orçamentos 2.0\Aplicação para oçamento\Aplicação para oçamento\bin\Debug\Aplicação para oçamento.exe
+C:\Users\Nathan\Desktop\Aplicação para orçamentos 2.0\Aplicação para oçamento\Aplicação para oçamento\bin\Debug\Aplicação para oçamento.pdb
+C:\Users\Nathan\Desktop\Aplicação para orçamentos 2.0\Aplicação para oçamento\Aplicação para oçamento\obj\Debug\Aplicação para oçamento.csproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\Aplicação para orçamentos 2.0\Aplicação para oçamento\Aplicação para oçamento\obj\Debug\Aplicação para oçamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nathan\Desktop\Aplicação para orçamentos 2.0\Aplicação para oçamento\Aplicação para oçamento\obj\Debug\Aplicação_para_oçamento.Form1.resources
+C:\Users\Nathan\Desktop\Aplicação para orçamentos 2.0\Aplicação para oçamento\Aplicação para oçamento\obj\Debug\Aplicação_para_oçamento.Properties.Resources.resources
+C:\Users\Nathan\Desktop\Aplicação para orçamentos 2.0\Aplicação para oçamento\Aplicação para oçamento\obj\Debug\Aplicação para oçamento.csproj.GenerateResource.cache
+C:\Users\Nathan\Desktop\Aplicação para orçamentos 2.0\Aplicação para oçamento\Aplicação para oçamento\obj\Debug\Aplicação para oçamento.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\Aplicação para orçamentos 2.0\Aplicação para oçamento\Aplicação para oçamento\obj\Debug\Aplicação para oçamento.exe
+C:\Users\Nathan\Desktop\Aplicação para orçamentos 2.0\Aplicação para oçamento\Aplicação para oçamento\obj\Debug\Aplicação para oçamento.pdb
+C:\Users\Nathan\Desktop\Aplicação para orçamentos 2.0\Aplicação para oçamento\Aplicação para oçamento\bin\Debug\Aplicação para oçamento.exe.manifest
+C:\Users\Nathan\Desktop\Aplicação para orçamentos 2.0\Aplicação para oçamento\Aplicação para oçamento\bin\Debug\Aplicação para oçamento.application
+C:\Users\Nathan\Desktop\Aplicação para orçamentos 2.0\Aplicação para oçamento\Aplicação para oçamento\obj\Debug\Aplicação para oçamento.exe.manifest
+C:\Users\Nathan\Desktop\Aplicação para orçamentos 2.0\Aplicação para oçamento\Aplicação para oçamento\obj\Debug\Aplicação para oçamento.application
